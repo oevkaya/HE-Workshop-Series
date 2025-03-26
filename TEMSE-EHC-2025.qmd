@@ -1,0 +1,271 @@
+---
+title: "Technology *enabled* mathematical science education"
+subtitle: "Bridging Research and Practice"
+author: "Emma Cliffe"
+format: 
+    html: 
+        toc: true
+        output-file: "index"
+        number-sections: false
+        notes: true
+        default-image-extension: svg
+        html-math-method: 
+          method: mathjax
+          url: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML"
+    revealjs:
+        toc: false
+        template-partials: 
+          - title-slide.html
+        slide-level: 1
+        shift-heading-level-by: -2
+        theme: simple
+        default-image-extension: svg
+        output-file: "TEMSE-EHC-slides"
+        slides: true
+        html-math-method: 
+          method: mathjax
+          url: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML"
+    beamer:
+        pdf-engine: pdflatex
+        toc: false
+        slide-level: 1
+        shift-heading-level-by: -2
+        default-image-extension: png
+        output-file: "TEMSE-EHC-slides"
+        slides: true
+        keep-tex: true
+    pdf:
+        pdf-engine: pdflatex
+        beamerarticle: true
+        number-sections: true
+        default-image-extension: png
+        toc: true
+        output-file: "TEMSE-EHC-notes"
+        notes: true
+        keep-tex: true
+    docx:
+        number-sections: true
+        default-image-extension: svg
+        toc: true
+        output-file: "TEMSE-EHC-notes"
+        notes: true
+---
+
+:::{.content-hidden unless-meta="notes"}
+
+**Abstract**: This talk will explore key research and technological developments that have enabled access to mathematical resources for all students, including disabled students. We will examine the role of specialist practitioners in translating research and development outputs into practical methods for the average mathematics lecturer, contributing to changes in everyday practices. We will review remaining core technical access issues and discuss how our community can effectively respond to these challenges, using two specific examples to guide our conversation.
+
+:::
+
+:::{.content-hidden unless-meta="slides"}
+
+### Defining the problem {.unumbered}
+
+* Enabling access
+  * Defining the problem
+  * From research to practice
+  * Change
+* What next?
+  * Dissemination and core challenges
+  
+:::
+
+:::{.content-hidden unless-meta="notes"}
+
+# Enabling access
+
+
+## Defining the problem
+
+:::
+
+### We want...
+
+... to enable access to mathematical content by:
+
+* People using assistive technology
+* People reading on small screen devices, e-book readers... 
+* People searching, copying and pasting
+* People verifying reproducibility of results
+* Software parsing, transforming, generating and manipulating input and output
+* AIs consuming and generating mathematical content...? 
+
+
+### [But...](./quadratic.pdf)
+
+![Reflowed quadratic equation with broken structure](./images/reflowing.png)\
+
+
+### [Legal](./images/alt/Legal-context.xlsx)
+
+![Please click on title to download timeline as an Excel file.](./images/Legal-context)\
+
+:::{.content-hidden unless-meta="notes"}
+
+## From research to practice
+
+:::
+
+:::{.content-hidden unless-meta="slides"}
+
+### From research to practice {.unumbered}
+
+* Enabling access
+  * Defining the problem
+  * From research to practice
+  * Change
+* What next?
+  * Dissemination and core challenges
+  
+:::
+
+### [Technical](./images/alt/Technology-context.xlsx)
+
+![Please click on title to download timeline as an Excel file.](./images/Technology-context)\
+
+### [Practitioners](./images/alt/Our-work.xlsx)
+
+![Please click on title to download timeline as an Excel file.](./images/Our-work)\
+
+### [Phases](./images/alt/Our-work-phases.xlsx)
+
+![Please click on title to download timeline as an Excel file.](./images/Our-work-phases)\
+
+
+:::{.content-hidden unless-meta="notes"}
+
+## Change
+
+:::
+
+:::{.content-hidden unless-meta="slides"}
+
+### Change {.unumbered}
+
+* Enabling access
+  * Defining the problem
+  * From research to practice
+  * Change
+* What next?
+  * Dissemination and core challenges
+  
+:::
+
+### [CLT & Lecturers](https://teachinghub.bath.ac.uk/guide-category/technical-accessibility/)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![CLT provides guidance](./images/CLT.png)\
+
+:::
+
+::: {.column width="50%"}
+![Lecture notes available on VLE in HTML](./images/notes.png){width=65%}\
+![Problem sheets and solutions available on VLE in HTML](./images/sheets.png){width=80%}\
+:::
+::::
+
+### [MASH & Everyone!](./TEMSE-EHC-notes.html#mash-everyone)
+
+:::: {.columns}
+
+::: {.column width="40%"}
+#### Maths support
+
+![MASH provides guidance](./images/MASH.png)\
+
+#### MathJax
+
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+:::
+
+::: {.column width="60%"}
+
+#### Desmos
+
+![Please use interactive accessible format linked below](./images/desmos-quadratic.png){width=80%}\
+[Interactive accessible version of the quadratic graph](https://www.desmos.com/calculator/34qsxjk2p3)
+:::
+
+::::
+:::{.content-hidden unless-meta="notes"}
+
+# What next?
+
+
+## Dissemination and core challenges
+
+:::
+
+:::{.content-hidden unless-meta="slides"}
+
+### What next? {.unumbered}
+
+* Enabling access
+  * Defining the problem
+  * From research to practice
+  * Change
+* What next?
+  * Dissemination and core challenges
+  
+:::
+
+### Getting started...
+
+
+* [RMarkdown](https://stem-enable.github.io/RMarkdownWorkshop/), [Bookdown](https://bookdown.org/) and possibly [ClavertonDown](https://bathmash.github.io/clavertondown/)
+* [Quarto](https://quarto.org/)
+* [Chirun](https://chirun.org.uk/)
+* [LWarp](https://people.bath.ac.uk/feb/lwarp/lwarp-intro.html)
+* [PreTeXt](https://pretextbook.org/)
+* [Word](https://stem-enable.github.io/WordWorkshop/)
+* [Desmos and Geogebra](https://bathmash.github.io/CETL-MSOR-2022-Beyond-alt-text/)
+* [BrailleR](https://r-resources.massey.ac.nz/BrailleR/)
+
+### Dissemination
+
+We are still doing this, now others are too... Can you:
+  
+* Have a go yourself and tell others?
+* Join [JISC Accessibility Community Maths Working Group](https://github.com/A11yMaths) 
+* Consider and communicate regarding the implications for mathematical pedagogy?
+* Consider and communicate regarding the implications for open and reproducible science?
+* Build functionality into software and packages you create so that users automatically produce accessible output?
+
+### Diagrams
+
+* It is possible to use Desmos, some functionality of Geogebra and the BrailleR package to help make accessible diagrams
+* This is nowhere near sufficient or flexible enough to represent the variety of diagrams we produce in e.g. TikZ
+* These formats are not easily consumed and manipulated by other software or AIs
+
+### Meaning
+
+* We are no longer losing syntactic structure 
+* We are still losing enough of the semantics *known to the author* that things we want to do are affected
+  * Sometimes the author encodes these in their LaTeX
+  * Not always though... 
+* Consider 
+$$
+\lvert\{(a,b) \mid a \in A, b \in B\}\rvert
+$$
+
+
+### Questions and discussion
+
+Thank you for your time! Papers for discussion:
+
+* [Authoring Web-accessible Mathematical Diagrams.](https://doi.org/10.1145/3587281.3587297)
+* [Author Intent: Eliminating Ambiguity in MathML.](https://doi.org/10.1007/978-3-031-62846-7_21), [Pre-print](https://arxiv.org/abs/2407.06720)
+
+Slides: [](fill.in) 
+
+My email address: [E.H.Cliffe@bath.ac.uk](mailto:E.H.Cliffe@bath.ac.uk)
+
+::: {layout-ncol=2}
+![MASH logo](./images/MASH-logo.png){width=75%}\
+
+![University of Bath logo](./images/uob-logo-grey-transparent.png){width=60%}\
+:::

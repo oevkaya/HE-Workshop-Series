@@ -1,0 +1,20 @@
+---
+format: 
+    html: 
+        html-math-method: 
+          method: mathjax
+          url: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML"
+    pdf:
+        pdf-engine: pdflatex
+---
+
+# MathJax example
+
+$$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+
+# Desmos example
+
+<iframe src="https://www.desmos.com/calculator/34qsxjk2p3?embed" width="500" height="300" style="border: 1px solid #ccc" frameborder=0></iframe>
+\includegraphics{./images/desmos-quadratic.png}
