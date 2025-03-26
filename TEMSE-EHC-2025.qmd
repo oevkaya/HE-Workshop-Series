@@ -166,7 +166,7 @@ format:
 :::
 ::::
 
-### [MASH & Everyone!](./TEMSE-EHC-notes.html#mash-everyone)
+### [MASH & Everyone!](./index.html#mash-everyone)
 
 :::: {.columns}
 
