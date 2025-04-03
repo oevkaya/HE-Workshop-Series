@@ -116,38 +116,37 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 
 ### Tentative Schedule {.unumbered}
 
-| **Time**       | **Session Details**                                                                                                                                      |
-|----------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| 10:00 - 10:15  | Welcome and Introduction                                                                                                                          |
-| 10:15 - 11:00  | Main Speaker 1: Michael Grove – TBA                                                                                                                         |
-| 11:00 - 11:30  | Lightning Talks Session 1                                                                                                                                 |
-| 11:30 - 12:00  | Tea/Coffee Break                                                                                                                                          |
-| 12:00 - 12:45  | Main Speaker 2: Stuart King – TBA                                                                                                                           |
-| 12:45 - 13:30   | Lunch Break (Will be served?)                                                                                                                               |
-| 13:45 - 14:00   | Discussion Topic 1                                                                                                                                        |
-| 14:00 - 14:30   | Lightning Talks Session 2                                                                                                                                 |
-| 14:30 - 14:45   | Tea/Coffee Break                                                                                                                                          |
-| 14:45 - 15:00   | Discussion Topic 2                                                                                                                                        
-| 15:00 - 15:45   | Main Speaker 3: TBA                      |
+| **Time**       | **Session Details**                                       |
+|----------------|-----------------------------------------------------------|
+| 10:00 - 10:15  | Welcome and Introduction                                  |
+| 10:15 - 11:00  | [Main Speaker 1: Michael Groove – TBA](#speaker1)         |
+| 11:00 - 11:30  | Lightning Talks Session 1                                 |
+| 11:30 - 12:00  | Tea/Coffee Break                                          |
+| 12:00 - 12:45  | [Main Speaker 2: Stuart King – TBA](#speaker2)            |
+| 12:45 - 13:30  | Lunch Break (Will be served?)                             |
+| 13:45 - 14:00  | Discussion Topic 1                                        |
+| 14:00 - 14:30  | Lightning Talks Session 2                                 |
+| 14:30 - 14:45  | Tea/Coffee Break                                          |
+| 14:45 - 15:00  | Discussion Topic 2                                        |
+| 15:00 - 15:45  | [Main Speaker 3: TBA](#speaker3)                          |
+| 15:45 - 16:00  | Closing Remarks                                           |
 
-| 15:45 - 16:00   | Closing Remarks                          |
 
-  
 ### KeyNote Speakers
 
-#### [Michael Groove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael)
+#### [Michael Groove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) {#speaker1}
 
 is Deputy Pro-Vice-Chancellor for Education Policy and Academic Standards at the University of Birmingham, Professor of Mathematics and Mathematics Education, and a National Teaching Fellow.
 
 Talk Title and Abstract: TBA
 
-#### [Stuart King](https://www.maths.ed.ac.uk/~sking3/index.html) 
+#### [Stuart King](https://www.maths.ed.ac.uk/~sking3/index.html) {#speaker2}
 
 is working at the School of Mathematics at the University of Edinburgh as a lecturer in Mathematics in 2015, as a member of the Applied and Computational Mathematics research group.
 
 Talk Title and Abstract: TBA
 
-#### [Speaker 3]()
+#### [Speaker 3]() {#speaker3}
 
 Talk Title and Abstract: TBA
 
@@ -231,7 +230,7 @@ Please see the other events happening this year below;
 | **12 JUNE** | *Fostering Engagement and Learning in Mathematics in the Digital Age*                                               | University of Central Lancashire     |
 | **4 JULY**  | *Rethinking feedback and assessment: what does this mean in traditionally exam-based mathematics?*                  | Imperial College London              |
 | **10 JULY** | *Enhancing Student Community and Learning: Adapting Strategies for Changing Patterns of Student Engagement*         | The Open University                  |
-| **28-31 JULY** | *Automatic grading in mathematics and statistics: beyond the basics*                                                 | University of Liverpool              |
+| **?? JULY (TBA)** | *Automatic grading in mathematics and statistics: beyond the basics*                                                 | University of Liverpool              |
 
 <!-- ### What next? {.unumbered} -->
 
@@ -241,8 +240,6 @@ Please see the other events happening this year below;
 <!--   * Change -->
 <!-- * What next? -->
 <!--   * Dissemination and core challenges -->
-  
----
 
 ## Speaker Slides
 
