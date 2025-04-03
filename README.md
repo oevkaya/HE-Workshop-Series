@@ -6,4 +6,4 @@ Rethinking Teaching and Learning in The Mathematical Sciences in Times of Genera
 
 The event takes place on-site on **July 18, Friday, between 10.00-16.00**
 
-See the details from the event [Website]()
+See the details from the event [Website](https://oevkaya.github.io/HE-Workshop-Series/)
