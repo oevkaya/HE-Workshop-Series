@@ -1,6 +1,6 @@
 ---
 title: "Higher Education Teaching and Learning Series 24/25"
-subtitle: "IMS, RSS & LMS Higher Education Teaching and Learning Workshop Series 2025"
+subtitle: "IMA, RSS & LMS Higher Education Teaching and Learning Workshop Series 2025"
 format: 
     html: 
         toc: true
@@ -119,7 +119,7 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 | **Time**       | **Session Details**                                       |
 |----------------|-----------------------------------------------------------|
 | 10:00 - 10:15  | Welcome and Introduction                                  |
-| 10:15 - 11:00  | [Main Speaker 1: Michael Groove – TBA](#speaker1)         |
+| 10:15 - 11:00  | [Main Speaker 1: Michael Grove – TBA](#speaker1)         |
 | 11:00 - 11:30  | Lightning Talks Session 1                                 |
 | 11:30 - 12:00  | Tea/Coffee Break                                          |
 | 12:00 - 12:45  | [Main Speaker 2: Stuart King – TBA](#speaker2)            |
@@ -134,7 +134,7 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 
 ### KeyNote Speakers
 
-#### [Michael Groove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) {#speaker1}
+#### [Michael Grove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) {#speaker1}
 
 is Deputy Pro-Vice-Chancellor for Education Policy and Academic Standards at the University of Birmingham, Professor of Mathematics and Mathematics Education, and a National Teaching Fellow.
 
@@ -227,10 +227,10 @@ Please see the other events happening this year below;
 
 | **Date**   | **Event Title**                                                                                                      | **Institution**                      |
 |---------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **12 JUNE** | *Fostering Engagement and Learning in Mathematics in the Digital Age*                                               | University of Central Lancashire     |
-| **4 JULY**  | *Rethinking feedback and assessment: what does this mean in traditionally exam-based mathematics?*                  | Imperial College London              |
-| **10 JULY** | *Enhancing Student Community and Learning: Adapting Strategies for Changing Patterns of Student Engagement*         | The Open University                  |
-| **?? JULY (TBA)** | *Automatic grading in mathematics and statistics: beyond the basics*                                                 | University of Liverpool              |
+| **12 JUNE** | [Fostering Engagement and Learning in Mathematics in the Digital Age](https://ssahamath.github.io/maths-workshop-2025/)                                               | University of Central Lancashire     |
+| **4 JULY**  | [Rethinking feedback and assessment: what does this mean in traditionally exam-based mathematics?](https://www.imperial.ac.uk/events/193747/ima-lms-teaching-workshop/)                  | Imperial College London              |
+| **10 JULY** | [Enhancing Student Community and Learning: Adapting Strategies for Changing Patterns of Student Engagement](https://forms.office.com/pages/responsepage.aspx?id=VdQuDq-WAEG-06jl_ZgWhaqlj7MNeehFg85qbME3VxhUOEVQMlBDQVpUOFIxSkg5V0xNSkJBVEdIQy4u&route=shorturl)         | The Open University                  |
+| **29 JULY** | [Automatic grading in mathematics and statistics: beyond the basics](https://pcwww.liv.ac.uk/~itho17/workshop2025/)                                                 | University of Liverpool              |
 
 <!-- ### What next? {.unumbered} -->
 
