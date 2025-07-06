@@ -89,13 +89,15 @@ This workshop will be hosted by the University of Edinburgh, School of Mathemati
 
 The event takes place on-site on **July 18, Friday, between 10.00-16.00**
 
+::: {.hide}
+
 ### How to participate?
 
 Please reserve your seat until, **30th June 2025 Monday**. Please note that capacity is limited, so registration may stop before the deadline when all seats are taken!
 
 See the [registration form](https://edin.ac/4hYND24) at your earliest convenience or use the QR code given below
 
-![QR Code](./images/QRCode_part.png){width=50%}\
+:::
 
 <!-- ### [But...](./quadratic.pdf) -->
 
@@ -119,16 +121,16 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 | **Time**       | **Session Details**                                       |
 |----------------|-----------------------------------------------------------|
 | 10:00 - 10:15  | Welcome and Introduction                                  |
-| 10:15 - 11:00  | [Main Speaker 1: Michael Grove – TBA](#speaker1)         |
+| 10:15 - 11:00  | [Main Speaker 1: Michael Grove – From panic to pedagogy: it’s about time we moved the generative AI conversation on](#speaker1)         |
 | 11:00 - 11:30  | Lightning Talks Session 1                                 |
 | 11:30 - 12:00  | Tea/Coffee Break                                          |
-| 12:00 - 12:45  | [Main Speaker 2: Stuart King – TBA](#speaker2)            |
+| 12:00 - 12:45  | [Main Speaker 2: Stuart King – Systemic Approaches to Generative AI in Mathematical Sciences Education](#speaker2)            |
 | 12:45 - 13:30  | Lunch Break (Will be served?)                             |
 | 13:45 - 14:00  | Discussion Topic 1                                        |
 | 14:00 - 14:30  | Lightning Talks Session 2                                 |
 | 14:30 - 14:45  | Tea/Coffee Break                                          |
 | 14:45 - 15:00  | Discussion Topic 2                                        |
-| 15:00 - 15:45  | [Main Speaker 3: TBA](#speaker3)                          |
+| 15:00 - 15:45  | [Main Speaker 3: Amanda Shaker – Generative AI and statistics anxiety: Are students using GenAI for learning statistics, and is this linked to student anxiety and confidence while studying statistics?](#speaker3)                          |
 | 15:45 - 16:00  | Closing Remarks                                           |
 
 
@@ -138,17 +140,31 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 
 is Deputy Pro-Vice-Chancellor for Education Policy and Academic Standards at the University of Birmingham, Professor of Mathematics and Mathematics Education, and a National Teaching Fellow.
 
-Talk Title and Abstract: TBA
+**Title:** From panic to pedagogy: it’s about time we moved the generative AI conversation on
+
+**Abstract:** The rise of generative AI has prompted waves of anxiety and experimentation across higher education. Within the mathematical sciences and STEM disciplines more broadly, the questions are sharp: How do we ensure students learn, not outsource? How do we adapt without compromising rigour? How do we design for long-term learning, not short-term workarounds? And how do we protect what matters, while still evolving how we teach it?
+
+Here I will seek to argue that we must move beyond reactive policy and piecemeal practice, and instead embrace curriculum-level design as the most powerful tool we have. Drawing on the ideas behind a forthcoming institutional white paper, this talk will outline a series of practical principles to guide programme teams in embedding generative AI with intent, consistency, and care. These include designing with purpose, promoting programme-level coherence, embedding ethical and transparent AI use, respecting disciplinary contexts, and supporting both independent learning and digital literacy. The talk will explore how these ideas can translate into practical action across mathematics and related disciplines.
+
+Rather than treating generative AI as a threat to be contained, it must be treated as a literacy to be developed - thoughtfully, ethically, and with students as partners in the process. The talk will share emerging examples, challenges, and approaches from across the sector, and invite critical discussion on how we design for, not around, the realities of a world with AI-enabled learning.
 
 #### [Stuart King](https://www.maths.ed.ac.uk/~sking3/index.html) {#speaker2}
 
-is working at the School of Mathematics at the University of Edinburgh as a lecturer in Mathematics in 2015, as a member of the Applied and Computational Mathematics research group.
+is a Reader in Applied Mathematics at the School of Mathematics at the University of Edinburgh, starting there in 2015. He was Director of Teaching in Mathematics from 2019-2023 and is also currently lead for Generative AI in learning and teaching for the College of Science and Engineering.
 
-Talk Title and Abstract: TBA
+**Title:** Systemic Approaches to Generative AI in Mathematical Sciences Education 
 
-#### [Speaker 3]() {#speaker3}
+**Abstract:** The explosion of use of Generative AI tools, such as ChatGPT, is prompting a critical evaluation of teaching and assessment practices within higher education, both by academic staff and by students. The Mathematical Sciences are also affected by these developments as these tools raise questions about how we robustly assess in mathematics, but also more widely about how we might use them to improve teaching and learning, and how we might establish new disciplinary norms for their use.
 
-Talk Title and Abstract: TBA
+This presentation will aim to explore outwards from experiments and use of GenAI tools in courses, towards practically exploring systemic strategies for addressing GenAI at course, programme, and university levels. To that end drawing on empirical data from student surveys and focus groups, and work done on developing training materials in Edinburgh. 
+
+#### [Amanda Shaker](https://scholars.latrobe.edu.au/a2shaker) {#speaker3}
+
+is a Senior Lecturer in the Department of Mathematical and Physical Sciences, and the Teaching and Learning Coordinator in the School of Computing, Engineering and Mathematical Sciences at La Trobe University. She teaches statistics to students from a diverse range of disciplines and is passionate about making statistics fun and interesting for all students. Within the Scholarship of Learning and Teaching, Amanda’s research interests include statistics anxiety, assessment and feedback, and game-based learning. 
+
+**Title:** Generative AI and statistics anxiety: Are students using GenAI for learning statistics, and is this linked to student anxiety and confidence while studying statistics?
+
+**Abstract:** In an international, multi-institutional study, a group of researchers are investigating Generative AI (GenAI) awareness, usage and perceptions amongst Higher Education students studying statistics. Given that an estimated 70-90% of students experience anxiety while studying statistics, we are also studying links between student anxiety and confidence, and student awareness, perceptions and usage of GenAI. Data were collected during 2024 and 2025 from students studying statistics at universities in Australia and the UK. To date, results indicate that overall, GenAI usage is modest, but more prevalent amongst postgraduate compared with undergraduate students. The results also indicate that in general, GenAI usage is associated with decreases in student anxiety and increases in student confidence, while studying statistics. Given the potential learning benefits of responsible GenAI usage, this study informs GenAI-equipped pedagogy within a statistics education context.
 
 <!-- ### [Technical](./images/alt/Technology-context.xlsx) -->
 
@@ -243,7 +259,7 @@ Please see the other events happening this year below;
 
 ## Speaker Slides
 
-Please see the keynote speaker slides and participant contributions from that list (will be udpated later)
+Please see the keynote speaker slides and participant contributions (TBA)
 
 <!-- * [RMarkdown](https://stem-enable.github.io/RMarkdownWorkshop/), [Bookdown](https://bookdown.org/) and possibly [ClavertonDown](https://bathmash.github.io/clavertondown/) -->
 <!-- * [Quarto](https://quarto.org/) -->
@@ -256,10 +272,9 @@ Please see the keynote speaker slides and participant contributions from that li
 
 ### KeyNote 
 
-
 * [Michael Groove]()
 * [Stuart King]()
-* [Speaker 3]()
+* [Amanda Shaker]()
 
 ### Lightning Talks 1 
 
