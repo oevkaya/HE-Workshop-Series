@@ -73,7 +73,7 @@ We aim to stimulate discussions among teaching practitioners relying on their ex
 This event organized by,
 
 - Ozan Evkaya (University of Edinburgh)
-- Jennifer Gaskel (University of Glasgow)
+- Jennifer Gaskell (University of Glasgow)
 - Skarleth Carrales Escobedo (University of Edinburgh)
 - Steven O'Hagan (University of Edinburgh)
 
@@ -129,7 +129,7 @@ See the [registration form](https://edin.ac/4hYND24) at your earliest convenienc
 | 10:00 - 10:15  | Welcome and Introduction                                  |
 | 10:15 - 11:00  | [Main Speaker 1: Michael Grove – From panic to pedagogy: it’s about time we moved the generative AI conversation on](#speaker1)         |
 | 11:00 - 11:30  | Tea/Coffee Break                                  |
-| 11:30 - 12:00  | Lightning Talks Session 1 ([Elizabeth Petrie](#ltalk1), [Anum Khalid](#ltalk2))                                          |
+| 11:30 - 12:00  | Lightning Talks Session 1 ([Jenn Gaskell](#ltalk1), [Anum Khalid](#ltalk2))                                          |
 | 12:00 - 12:45  | [Main Speaker 2: Stuart King – Systemic Approaches to Generative AI in Mathematical Sciences Education](#speaker2)            |
 | 12:45 - 13:30  | Lunch Break                                               |
 | 13:30 - 14:00  | Discussion Topic 1 (how to prepare students for an AI-enabled workplace, what skills to we need to prioritize)                                        |
@@ -284,7 +284,7 @@ Please see the keynote speaker slides and participant contributions (TBA)
 
 ### Lightning Talks 1 
 
-* [Elizabeth  Petrie](https://www.gla.ac.uk/schools/ges/staff/elizabethpetrie/){#ltalk1} - How can we effectively make sure all staff have a sufficient understanding of AI?
+* [Jenn Gaskell](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jennifergaskell/){#ltalk1} - AI in Statistics Education
 * [Anum Khalid](https://www.qmul.ac.uk/sbbs/staff/anum-khalid.html){#ltalk2} - Designing AI-Resilient Maths Support: Lessons from Practice
 
 ### Lightning Talks 2
