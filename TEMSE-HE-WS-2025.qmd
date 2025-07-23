@@ -249,9 +249,9 @@ Please see the other events happening this year below;
 
 | **Date**   | **Event Title**                                                                                                      | **Institution**                      |
 |---------------------|-------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **12 JUNE** | [Fostering Engagement and Learning in Mathematics in the Digital Age](https://ssahamath.github.io/maths-workshop-2025/)                                               | University of Central Lancashire     |
-| **4 JULY**  | [Rethinking feedback and assessment: what does this mean in traditionally exam-based mathematics?](https://www.imperial.ac.uk/events/193747/ima-lms-teaching-workshop/)                  | Imperial College London              |
-| **10 JULY** | [Enhancing Student Community and Learning: Adapting Strategies for Changing Patterns of Student Engagement](https://forms.office.com/pages/responsepage.aspx?id=VdQuDq-WAEG-06jl_ZgWhaqlj7MNeehFg85qbME3VxhUOEVQMlBDQVpUOFIxSkg5V0xNSkJBVEdIQy4u&route=shorturl)         | The Open University                  |
+| ~~**12 JUNE**~~ | [Fostering Engagement and Learning in Mathematics in the Digital Age](https://ssahamath.github.io/maths-workshop-2025/)                                               | University of Central Lancashire     |
+| ~~**4 JULY**~~  | [Rethinking feedback and assessment: what does this mean in traditionally exam-based mathematics?](https://www.imperial.ac.uk/events/193747/ima-lms-teaching-workshop/)                  | Imperial College London              |
+| ~~**10 JULY**~~ | [Enhancing Student Community and Learning: Adapting Strategies for Changing Patterns of Student Engagement](https://forms.office.com/pages/responsepage.aspx?id=VdQuDq-WAEG-06jl_ZgWhaqlj7MNeehFg85qbME3VxhUOEVQMlBDQVpUOFIxSkg5V0xNSkJBVEdIQy4u&route=shorturl)         | The Open University                  |
 | **29 JULY** | [Automatic grading in mathematics and statistics: beyond the basics](https://pcwww.liv.ac.uk/~itho17/workshop2025/)                                                 | University of Liverpool              |
 
 <!-- ### What next? {.unumbered} -->
@@ -265,34 +265,23 @@ Please see the other events happening this year below;
 
 ## Speaker Slides
 
-Please see the keynote speaker slides and participant contributions (TBA)
+Please see the keynote speaker slides and participant contributions 
 
-<!-- * [RMarkdown](https://stem-enable.github.io/RMarkdownWorkshop/), [Bookdown](https://bookdown.org/) and possibly [ClavertonDown](https://bathmash.github.io/clavertondown/) -->
-<!-- * [Quarto](https://quarto.org/) -->
-<!-- * [Chirun](https://chirun.org.uk/) -->
-<!-- * [LWarp](https://people.bath.ac.uk/feb/lwarp/lwarp-intro.html) -->
-<!-- * [PreTeXt](https://pretextbook.org/) -->
-<!-- * [Word](https://stem-enable.github.io/WordWorkshop/) -->
-<!-- * [Desmos and Geogebra](https://bathmash.github.io/CETL-MSOR-2022-Beyond-alt-text/) -->
-<!-- * [BrailleR](https://r-resources.massey.ac.nz/BrailleR/) -->
 
 ### KeyNote 
 
-* [Michael Groove]()
-* [Stuart King]()
-* [Amanda Shaker]()
+* [Michael Groove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) - From panic to pedagogy: it’s about time we moved the generative AI conversation on
+* [Stuart King](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_StuartKing.pdf) - Systemic Approaches to Generative AI in Mathematical Sciences Education
+* [Amanda Shaker-1](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_AmandaShaker_slides1.pdf) 
+* [Amanda Shaker-2](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_AmandaShaker_slides2.pdf) - Generative AI and statistics anxiety: Are students using GenAI for learning statistics, and is this linked to student anxiety and confidence while studying statistics?
 
-### Lightning Talks 1 
+### Lightning Talks 
 
-* [Jenn Gaskell](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/jennifergaskell/){#ltalk1} - AI in Statistics Education
-* [Anum Khalid](https://www.qmul.ac.uk/sbbs/staff/anum-khalid.html){#ltalk2} - Designing AI-Resilient Maths Support: Lessons from Practice
+* [Jenn Gaskell](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/LTalk_JennGaskell.pdf){#ltalk1} - AI in Statistics Education
+* [Mark MacDonald](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/LTalk_MacDonald-18July2025.pdf){#ltalk3} - Embedding low-stakes group work throughout the curriculum
+* [Sam Povall](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/LTalk_SPovall.pdf){#ltalk4} -  Incorporating A.I. for continuous assessment.
 
-### Lightning Talks 2
-
-* [Mark MacDonald](https://www.lancaster.ac.uk/maths/people/mark-macdonald){#ltalk3} - Embedding low-stakes group work throughout the curriculum
-* [Sam Povall](https://www.liverpool.ac.uk/people/sam-povall){#ltalk4} -  Incorporating A.I. for continuous assessment.
-
-::: {.hide}
+<!-- ::: {.hide} -->
 ## Feedback and Further suggestions
 
 Thank you for your participation! Please give us feedback regarding the workshop event and your further suggestions! Happy to hear your feedback and further stimulating ideas. 
@@ -300,9 +289,7 @@ Thank you for your participation! Please give us feedback regarding the workshop
 * [Participation Survey](https://forms.office.com/e/fpqtABb31Q)
 
 ![Part Survey](./images/QRCode_part_survey.png){width=50%}\
-:::
-
-<!-- Slides: [https://ehcliffe.github.io/TEMSE2025/](https://ehcliffe.github.io/TEMSE2025/)  -->
+<!-- ::: -->
 
 ---
 
