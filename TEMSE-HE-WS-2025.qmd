@@ -270,7 +270,7 @@ Please see the keynote speaker slides and participant contributions
 
 ### KeyNote 
 
-* [Michael Groove](https://www.birmingham.ac.uk/staff/profiles/maths/grove-michael) - From panic to pedagogy: it’s about time we moved the generative AI conversation on
+* [Michael Groove](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_MichaelGrove.pdf) - From panic to pedagogy: it’s about time we moved the generative AI conversation on
 * [Stuart King](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_StuartKing.pdf) - Systemic Approaches to Generative AI in Mathematical Sciences Education
 * [Amanda Shaker-1](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_AmandaShaker_slides1.pdf) 
 * [Amanda Shaker-2](https://github.com/oevkaya/HE-Workshop-Series/blob/main/asset-slides/MainTalk_AmandaShaker_slides2.pdf) - Generative AI and statistics anxiety: Are students using GenAI for learning statistics, and is this linked to student anxiety and confidence while studying statistics?
